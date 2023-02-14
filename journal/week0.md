@@ -4,9 +4,9 @@
 
 Below is both a lucid chart concept including a napkin conceptual diagram
 
-![cruddur-app-concept](https://user-images.githubusercontent.com/85324899/218665308-3e85ac4f-814e-46e0-bae8-b350be68ee7d.jpeg)
+![cruddur-app-concept(modified)](https://user-images.githubusercontent.com/85324899/218800885-2f19ae23-23f3-4e17-b236-98e47e85c9ef.jpeg)
 
-![Cruddur App - Napkin](https://user-images.githubusercontent.com/85324899/218665420-42211201-a7e6-4a73-b0a1-fb452522f4fd.jpg)
+![Cruddur App - Napkin (Modified)](https://user-images.githubusercontent.com/85324899/218800602-d6e23de3-1c2d-4e30-9b51-07e240c07eee.jpg)
 
 Lucid chart link is attached below.
 
