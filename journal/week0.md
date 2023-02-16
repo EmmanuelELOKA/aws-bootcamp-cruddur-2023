@@ -71,7 +71,7 @@ Created three budgets. Two from the concole and 1 with the AWS CLI after modyfyi
 
 ## STRETCHED ASSIGNMENTS
 
-## Destroyed my root account credentials, Set MFA, IAM role
+## Set MFA on my Root Account
 
 <img width="1684" alt="MFA" src="https://user-images.githubusercontent.com/85324899/219277165-dc726c39-4a18-4a45-afd8-4702f70b5d31.png">
 
