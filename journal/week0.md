@@ -10,15 +10,13 @@ Below is both a lucid chart concept including a napkin conceptual diagram
 
 ![Cruddur App - Napkin (Modified)](https://user-images.githubusercontent.com/85324899/218800602-d6e23de3-1c2d-4e30-9b51-07e240c07eee.jpg)
 
-Lucid chart link is attached below.
 
-https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1465%2C-1030%2C5029%2C2760%2CTkZwZafFC.xz&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7 
+[Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1465%2C-1030%2C5029%2C2760%2CTkZwZafFC.xz&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7) 
 
 ## Recreate Logical Architectual Diagram in Lucid Charts 
 
 ![cruddur-app](https://user-images.githubusercontent.com/85324899/218665514-7a3d9406-de90-4d45-8bde-01b86a9a08a6.jpeg)
 
-Lucid chart link is attached below.
 
 [Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-623%2C-390%2C3025%2C1660%2Cr1Xw4p3k9qia&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7)
 
@@ -82,7 +80,7 @@ Created three budgets. Two from the concole and 1 with the AWS CLI after modyfyi
 
 ![AWS Architectural Diagram Catalogue - CI_CD Pipeline Cruddur](https://user-images.githubusercontent.com/85324899/219277282-6046c35f-aef3-4fad-b4d7-35e52f33bce1.jpeg)
 
-Ludid Chart Link: https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1307%2C-560%2C4154%2C2280%2CakExEEdSWn.z&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7 
+[Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1307%2C-560%2C4154%2C2280%2CakExEEdSWn.z&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7) 
 
 
 ## Used EventBridge to hookup Health Dashboard to SNS for a notification when there is a service health issue
