@@ -20,7 +20,7 @@ https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_
 
 Lucid chart link is attached below.
 
-https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-623%2C-390%2C3025%2C1660%2Cr1Xw4p3k9qia&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7
+![Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-623%2C-390%2C3025%2C1660%2Cr1Xw4p3k9qia&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7)
 
 
 ## Create an Admin User
