@@ -15,7 +15,7 @@ Below is both a lucid chart concept including a napkin conceptual diagram
 
 ## Recreate Logical Architectual Diagram in Lucid Charts 
 
-![cruddur-app](https://user-images.githubusercontent.com/85324899/218665514-7a3d9406-de90-4d45-8bde-01b86a9a08a6.jpeg)
+![Cruddur App Revised](https://user-images.githubusercontent.com/85324899/219288667-fe23317f-13d8-43fe-854b-caa07d284c13.jpeg)
 
 
 [Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-623%2C-390%2C3025%2C1660%2Cr1Xw4p3k9qia&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7)
@@ -78,7 +78,9 @@ Created three budgets. Two from the concole and 1 with the AWS CLI after modyfyi
 
 ## Created an architectural diagram of the CI/CD logical pipeline in Lucid Charts
 
-![AWS Architectural Diagram Catalogue - CI_CD Pipeline Cruddur](https://user-images.githubusercontent.com/85324899/219277282-6046c35f-aef3-4fad-b4d7-35e52f33bce1.jpeg)
+I added a simple CI/CD pipeline so that any changes to the application code will be automated. It starts with the developers commiting their code on Github which will be the SCM, and then that will trigger the Code Pipeline to start the automation. Code Build will then build the application including the new changes and Code Deploy will deploy to the environment. Amazon ECR will be used to store the artifact in this use case.
+
+![CI_CD Pipeline Cruddur Revised](https://user-images.githubusercontent.com/85324899/219289012-9eb7b4ac-c91f-42d0-8b2d-c86815d632dd.jpeg)
 
 [Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1307%2C-560%2C4154%2C2280%2CakExEEdSWn.z&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7) 
 
