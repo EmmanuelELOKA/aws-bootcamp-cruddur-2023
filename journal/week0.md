@@ -1,5 +1,7 @@
 # Week 0 — Billing and Architecture
 
+## REQUIRED ASSIGNMENTS
+
 ## Recreate Conceptual Diagram in Lucid Charts or on a Napkin
 
 Below is both a lucid chart concept including a napkin conceptual diagram
@@ -67,3 +69,42 @@ Created three budgets. Two from the concole and 1 with the AWS CLI after modyfyi
 
 
 <img width="1685" alt="budget3" src="https://user-images.githubusercontent.com/85324899/218663230-810f7579-c6bd-4a85-897a-1798bb33a703.png">
+
+
+## STRETCHED ASSIGNMENTS
+
+## Destroyed my root account credentials, Set MFA, IAM role
+
+<img width="1684" alt="MFA" src="https://user-images.githubusercontent.com/85324899/219277165-dc726c39-4a18-4a45-afd8-4702f70b5d31.png">
+
+
+## Created an architectural diagram of the CI/CD logical pipeline in Lucid Charts
+
+![AWS Architectural Diagram Catalogue - CI_CD Pipeline Cruddur](https://user-images.githubusercontent.com/85324899/219277282-6046c35f-aef3-4fad-b4d7-35e52f33bce1.jpeg)
+
+Ludid Chart Link: https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1307%2C-560%2C4154%2C2280%2CakExEEdSWn.z&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7 
+
+
+## Used EventBridge to hookup Health Dashboard to SNS for a notification when there is a service health issue
+
+<img width="1684" alt="Event Bridge" src="https://user-images.githubusercontent.com/85324899/219277373-7a3b7dbd-9946-44a1-9125-085a0a51daa3.png">
+
+
+## Opened a support ticket and requested a service limit for Elastic IP’s
+
+<img width="1684" alt="Support Ticket" src="https://user-images.githubusercontent.com/85324899/219277447-0d4ebafe-fd45-4b38-a8ab-7cce62675304.png">
+
+
+## Reviewed  the questions of each pillar in the Well Architected Tool
+
+<img width="1684" alt="WAR" src="https://user-images.githubusercontent.com/85324899/219277505-d0b0d34f-01cb-424a-a9d8-44fe011cb56c.png">
+
+
+## Researched on the technical and service limits of specific services
+
+<img width="1684" alt="Technical   Service Limits1" src="https://user-images.githubusercontent.com/85324899/219277747-c04e6b51-a0ef-4a90-8114-84b5e688499c.png">
+
+<img width="1684" alt="Technical   Service Limits2" src="https://user-images.githubusercontent.com/85324899/219277758-2a1f6da3-55fe-478b-9020-8cf2808f0e2b.png">
+
+
+
