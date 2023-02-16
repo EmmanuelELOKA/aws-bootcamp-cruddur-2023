@@ -78,7 +78,19 @@ Created three budgets. Two from the concole and 1 with the AWS CLI after modyfyi
 
 ## Created an architectural diagram of the CI/CD logical pipeline in Lucid Charts
 
-I added a simple CI/CD pipeline so that any changes to the application code will be automated. It starts with the developers commiting their code on Github which will be the SCM, and then that will trigger the Code Pipeline to start the automation. Code Build will then build the application including the new changes and Code Deploy will deploy to the environment. Amazon ECR will be used to store the artifact in this use case.
+I added a simple CI/CD pipeline so that any changes to the application code will be automated. It starts with the developers commiting their code on Github which will be the SCM, and then that will trigger the Code Pipeline to start the automation. Code Build will then build the application including the new changes and Code Deploy will deploy to the environment. Amazon ECR will be used to store the artifact in this use case. Services and tools used will include:
+
+Docker is one of the services that will be used. It is a platform that lets you build, test, and deliver applications in packages called containers.
+
+Git which is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among developers, but it can be used to track changes in any set of files. 
+
+AWS CodeBuild which is a fully managed build service that helps you compile source code, run unit tests, and produce artifacts that are ready to deploy. AWS CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left in the queue.
+
+AWS CodePipeline which helps you quickly model and configure the different stages of a software release and automate the steps required to release software changes continuously. In this case, AWS CodePipeline with GitHub.
+
+Amazon Elastic Container Registry (Amazon ECR) is a fully managed registry that makes it easy for developers to store, manage, and deploy Docker container images. Amazon ECR is integrated with Amazon ECS to simplify your development-to-production workflow. 
+
+Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. 
 
 ![CI_CD Pipeline Cruddur Revised](https://user-images.githubusercontent.com/85324899/219289012-9eb7b4ac-c91f-42d0-8b2d-c86815d632dd.jpeg)
 
@@ -105,6 +117,8 @@ I added a simple CI/CD pipeline so that any changes to the application code will
 <img width="1684" alt="Technical   Service Limits1" src="https://user-images.githubusercontent.com/85324899/219277747-c04e6b51-a0ef-4a90-8114-84b5e688499c.png">
 
 <img width="1684" alt="Technical   Service Limits2" src="https://user-images.githubusercontent.com/85324899/219277758-2a1f6da3-55fe-478b-9020-8cf2808f0e2b.png">
+
+[Reference](https://docs.aws.amazon.com/general/latest/gr/ec2-service.html)
 
 
 
