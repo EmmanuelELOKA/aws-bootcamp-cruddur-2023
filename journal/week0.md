@@ -92,7 +92,7 @@ Amazon Elastic Container Registry (Amazon ECR) is a fully managed registry that 
 
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container orchestration service that supports Docker containers and allows you to easily run and scale containerized applications on AWS. 
 
-![CI_CD Pipeline Cruddur Revised](https://user-images.githubusercontent.com/85324899/219289012-9eb7b4ac-c91f-42d0-8b2d-c86815d632dd.jpeg)
+![CI_CD Pipeline Cruddur New](https://user-images.githubusercontent.com/85324899/219515285-70d1d7e7-8414-459c-b99e-8ce7cb1bb2cc.jpeg)
 
 [Lucid Chart Link](https://lucid.app/lucidchart/66afba8e-48af-48d3-a5d9-5e7a0d01060b/edit?viewport_loc=-1307%2C-560%2C4154%2C2280%2CakExEEdSWn.z&invitationId=inv_c69171d5-6ce4-4aaf-a868-cba75b27c4e7) 
 
