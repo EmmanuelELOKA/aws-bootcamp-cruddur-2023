@@ -1,4 +1,3 @@
-
 tasks:
   - name: aws-cli
     env:
@@ -20,10 +19,15 @@ tasks:
       source  "$THEIA_WORKSPACE_ROOT/backend-flask/bin/rds-update-sg-rule"
   - name: react-js
     command: |
-      cd frontend-react-js && npm i
-
+      cd frontend-react-js
+      npm i
+  - name: flask
+    command: |
+      cd backend-flask
+      pip install -r requirements.txt
 vscode:
   extensions:
+    - 42Crunch.vscode-openapi
     - cweijan.vscode-postgresql-client2
 
 ports:
