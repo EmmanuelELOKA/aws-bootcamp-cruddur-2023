@@ -1,41 +1,41 @@
 {
-    "cluster": "CrdClusterFargateCluster",
-    "launchType": "FARGATE",
-    "desiredCount": 1,
-    "enableECSManagedTags": true,
-    "enableExecuteCommand": true,
-    "loadBalancers": [
-      {
-          "targetGroupArn": "arn:aws:elasticloadbalancing:ca-central-1:752023216802:loadbalancer/app/cruddur-alb/91993651675cee48",
-          "containerName": "backend-flask",
-          "containerPort": 4567
-      }
-    ],
-    "networkConfiguration": {
-      "awsvpcConfiguration": {
-        "assignPublicIp": "ENABLED",
-        "securityGroups": [
-          "sg-00b8ca0dbdd7e498a"
-        ],
-        "subnets": [
-          "subnet-d5d4bcaf",
-          "subnet-f4742b9c",
-          "subnet-c86b9e97"
-        ]
-      }
-    },
-    "serviceConnectConfiguration": {
-      "enabled": true,
-      "namespace": "cruddur",
-      "services": [
-        {
-          "portName": "backend-flask",
-          "discoveryName": "backend-flask",
-          "clientAliases": [{"port": 4567}]
-        }
+  "cluster": "CrdClusterFargateCluster",
+  "launchType": "FARGATE",
+  "desiredCount": 1,
+  "enableECSManagedTags": true,
+  "enableExecuteCommand": true,
+  "loadBalancers": [
+    {
+        "targetGroupArn": "arn:aws:elasticloadbalancing:ca-central-1:387543059434:targetgroup/CrdClu-Backe-ZFQJJCF6ZCRS/2321fc90ee14b953",
+        "containerName": "backend-flask",
+        "containerPort": 4567
+    }
+  ],
+  "networkConfiguration": {
+    "awsvpcConfiguration": {
+      "assignPublicIp": "ENABLED",
+      "securityGroups": [
+        "sg-04bdc8d5443cc8283"
+      ],
+      "subnets": [
+        "subnet-0187fbf9c01da0481",
+        "subnet-07446e97f689a487f",
+        "subnet-0ce3bb80613bebb26"
       ]
-    },
-    "propagateTags": "SERVICE",
-    "serviceName": "backend-flask",
-    "taskDefinition": "backend-flask"
-  }  
+    }
+  },
+  "serviceConnectConfiguration": {
+    "enabled": true,
+    "namespace": "cruddur",
+    "services": [
+      {
+        "portName": "backend-flask",
+        "discoveryName": "backend-flask",
+        "clientAliases": [{"port": 4567}]
+      }
+    ]
+  },
+  "propagateTags": "SERVICE",
+  "serviceName": "backend-flask",
+  "taskDefinition": "backend-flask"
+}
