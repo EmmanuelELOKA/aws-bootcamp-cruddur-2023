@@ -4,6 +4,6 @@ region = 'ca-central-1'
 stack_name = 'CrdSyncRole'
 
 [parameters]
-GitHubOrg = 'omenking'
+GitHubOrg = 'EmmanuelELOKA'
 RepositoryName = 'aws-bootcamp-cruddur-2023'
 OIDCProviderArn = ''
