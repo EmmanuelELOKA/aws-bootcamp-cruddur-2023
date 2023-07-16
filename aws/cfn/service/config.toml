@@ -4,6 +4,6 @@ region = 'ca-central-1'
 stack_name = 'CrdSrvBackendFlask'
 
 [parameters]
-EnvFrontendUrl = 'https://cruddur.com'
-EnvBackendUrl = 'https://api.cruddur.com'
+EnvFrontendUrl = 'https://roydemusglobalshipping.com'
+EnvBackendUrl = 'https://api.roydemusglobalshipping.com'
 DDBMessageTable = 'CrdDdb-DynamoDBTable-G12N0ET4TBR0'
