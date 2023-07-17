@@ -22,8 +22,8 @@ docker run --rm \
 #  --env AWS_XRAY_URL="*4567-emmanuelelo-awsbootcamp-f03xc738sex.ws-us101.gitpod.io*" \
 #  --env AWS_XRAY_DAEMON_ADDRESS="xray-daemon:2000" \
 #  --env AWS_DEFAULT_REGION="ca-central-1" \
-#  --env AWS_ACCESS_KEY_ID="AKIA26GATUKRHHX4A744" \
-#  --env AWS_SECRET_ACCESS_KEY="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" \
+#  --env AWS_ACCESS_KEY_ID="" \
+#  --env AWS_SECRET_ACCESS_KEY="" \
 #  --env ROLLBAR_ACCESS_TOKEN="35921f57dc27433791c6dc127bde50ca" \
 #  --env AWS_COGNITO_USER_POOL_ID="ca-central-1_jxD0aK2Jl" \
 #  --env AWS_COGNITO_USER_POOL_CLIENT_ID="3ll5mdgfmt3r6slvtbseb5op3q"    \
