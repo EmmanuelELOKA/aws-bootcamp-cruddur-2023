@@ -1,0 +1,9 @@
+[deploy]
+bucket = 'cfn-artifacts'
+region = 'ca-central-1'
+stack_name = 'CrdFrontend'
+
+[parameters]
+CertificateArn = 'arn:aws:acm:ca-central-1:752023216802:certificate/6932bd5f-fa2e-4096-9887-020b4245432a'
+WwwBucketName = 'www.roydemusglobalshipping.com'
+RootBucketName = 'roydemusglobalshipping.com'
