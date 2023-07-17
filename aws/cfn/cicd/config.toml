@@ -1,5 +1,5 @@
 [deploy]
-bucket = 'cfn-artifacts'
+bucket = 'cfn-artifacts-752023216802-23'
 region = 'ca-central-1'
 stack_name = 'CrdCicd'
 
@@ -8,5 +8,5 @@ ServiceStack = 'CrdSrvBackendFlask'
 ClusterStack = 'CrdCluster'
 GitHubBranch = 'prod'
 GithubRepo = 'EmmanuelELOKA/aws-bootcamp-cruddur-2023'
-ArtifactBucketName = "codepipeline-cruddur-artifacts"
+ArtifactBucketName = "codepipeline-cruddur-artifacts-752023216802"
 BuildSpec = 'backend-flask/buildspec.yml'
