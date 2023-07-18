@@ -1,0 +1,10 @@
+version = 0.1
+[default.deploy.parameters]
+stack_name = "CrdDdb"
+resolve_s3 = true
+s3_prefix = "CrdDdb"
+region = "ca-central-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_NAMED_IAM"
+parameter_overrides = "PythonRuntime=\"python3.9\" MemorySize=\"128\" Timeout=\"3\" DeletionProtectionEnabled=\"False\""
+image_repositories = []
