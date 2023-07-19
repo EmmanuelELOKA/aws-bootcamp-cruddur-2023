@@ -1,5 +1,5 @@
 [deploy]
-bucket = 'cfn-artifacts'
+bucket = 'cfn-artifacts-752023216802-23'
 region = 'ca-central-1'
 stack_name = 'CrdDb'
 
@@ -7,3 +7,4 @@ stack_name = 'CrdDb'
 NetworkingStack = 'CrdNet'
 ClusterStack = 'CrdCluster'
 MasterUsername = 'cruddurroot'
+MasterUserPassword = 'Eloka200'
